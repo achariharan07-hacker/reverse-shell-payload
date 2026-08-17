@@ -22,8 +22,6 @@ To use this:
 Security considerations
 
     No input validation - commands could execute arbitrary code
-    Uses plaintext TCP (not encrypted)
-    Could be enhanced with encryption or protocol obfuscation
-    Should add error handling and timeouts for production use
+    Uses encrypted communication using AES-256-CFB
 we do not promote any unethical use of this script so kindly hack ethically...
 keep hacking bye bye....
